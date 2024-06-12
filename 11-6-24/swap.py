@@ -1,0 +1,12 @@
+n=int(input())
+m=int(input())
+n=n+m
+m=n-m
+n=n-m
+print(n,m)
+t=4
+s=6
+t=t^s
+s=t^s
+t=t^s
+print(t,s)

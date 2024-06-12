@@ -1,0 +1,5 @@
+Data: anything to give information called data.
+structure: representation of data called structures.
+Data Structure :data structure is way to store and organise a data so that it can be used efficiently.
+there are 2 types of data structures. they are primitive and non -primitive 
+primitive data structures : these are fundamental data types . example of int, float , char , boolean,
